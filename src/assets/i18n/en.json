@@ -1,0 +1,123 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "HERITOKY_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I am a software engineer with over <span class='underline'>5 years of experience</span>, specialising in the development of technology solutions. I focus on writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular and Spring Boot</span>, applying best practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>5 years as a developer</span>, I've sought to learn every day. I've worked on writing <span class='underline'>unit tests</span>, <span class='underline'>solid principle</span>,<span class='underline'>continuous integration</span>, and covered backend developer roles with <span class='underline'>Spring Framework, Spring Boot, Kafka, Quarkus, VertX and MariaDB.</span> I've already worked in a number of sectors, including telecoms, insurance and banking.",
+        "My skills also include implementing system improvements, optimizing codes, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Carrus",
+            "Title": "Fullstack developer",
+            "Date": "June 2023 - Present",
+            "Description": [
+                "Development and maintenance of a server application that manages hardware, locations, monitoring, inventory, maintenance, supervision and logs, which improved user experience and performance.",
+                "Implementation of RESTful APIs to support multiple client requests, using Java and Spring boot, Spring Security and Hibernate",
+                "Implemented web accessibility and responsiveness across different screen sizes with Angular",
+                "Implementation of continuous integration and daily backups",
+                "Daily meeting",
+                "Performed a code review of pull requests to ensure code is 100% compliant to all standards",
+                "Implementation of continuous integration and daily backups."
+            ]
+        },
+        
+        {
+            "Tab": "Elcimai",
+            "Title": "Fullstack developer",
+            "Date": "November 2022 - April 2023",
+            "Description": [
+                "Develop a RESTful api using spring's restTemplate to retrieve data from the monExt api platform and display it using the Open API.",
+                "For development, we adopted the RED GREEN REFACTOR, starting with unit testing to ensure good coverage of the project.",
+                "Coding of API requests with Spring Framework.",
+                "Creation of modules with complex reactive forms",
+                "Improved website performance by optimizing codes and implementing caching techniques."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Wagering Device Management",
+            "Description": "The WDM goal is to centrally maintain a fleet of devices deployed in POS (terminals and ticket checker) in working conditions and report a general health status that allows the wagering company to take quick and accurate corrective decision in case of problem.",
+            "imgs": [
+                "assets/images/school/login.png",
+                "assets/images/school/dashBoard.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "RxJS",
+                "Java",
+                "Spring Boot",
+                "Spring Security",
+                "Hibernate"
+            ]
+        },
+        {
+            "Title": "eDelubac",
+            "Description": "eDelubac is an application that allows customers to manage their banking transactions remotely, <span class='underline'>simply and securely.</span>",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Java",
+                "Spring Framework",
+                "Jenkins",
+                "Git",
+                "Hibernate"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "facture-ekwateur",
+            "Description": "RestFul API which calculates a customer's electricity consumption between 02 dates",
+            "ghLink": "https://github.com/MaheninaHerii/ekwateur-facture",
+            "Technologies": [
+                "Java",
+                "Spring Boot",
+                "JUnit",
+                "TDD / DDD:Architecture Hexagonale"
+            ]
+        },
+        {
+            "Title": "Gestion de Stock | Front",
+            "Description": "Application to manage the stock of a product.",
+            "ghLink": "https://github.com/MaheninaHerii/gestionstock-front",
+            "Technologies": [
+                "Angular",
+                "Angular Material",
+                "RxJs",
+                "Typescript"
+            ]
+        },
+        {
+            "Title": "Gestion de Stock | Back",
+            "Description": "Application to manage the stock of a product.",
+            "ghLink": "https://github.com/MaheninaHerii/gestionstock-back",
+            "Technologies": [
+                "Java",
+                "Spring Boot",
+                "Hibernate",
+                "Spring Security",
+                "Maven"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+}

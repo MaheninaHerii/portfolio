@@ -1,0 +1,139 @@
+{
+    "Header.Item1": "A propos",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "CV",
+    "Header.cvName": "HERITOKY_CV.pdf",
+    "Banner.Pretitle": "Bonjour ! Je m'appelle",
+    "Banner.Description": "Je suis un ingénieur logiciel avec plus de <span class='underline'>5 ans d'expérience</span>, spécialisé dans le développement de solutions technologiques. Je me concentre sur l'écriture et le refactoring de code propre, réutilisable et évolutif en <span class='underline'>Angular et Spring Boot</span>, en appliquant les meilleures pratiques et les normes de développement.",
+    "Banner.ActionBtn": "Prendre contact",
+    "AboutMe.Title": "A  propos",
+    "AboutMe.Paragraphs": [
+        "Au cours de mes <span class='underline'>5 années en tant que développeur</span>, j'ai cherché à apprendre tous les jours. J'ai travaillé sur l'écriture de <span class='underline'>tests unitaires, le principe solid, l'intégration continue</span>, et j'ai couvert les rôles de développeur backend avec <span class='underline'>Spring Framework, Spring Boot, Kafka, Quarkus, VertX et MariaDB</span>. J'ai déjà travaillé dans plusieurs secteurs, notamment les télécommunications, l'assurance et la banque.",
+        "Mes compétences comprennent également la mise en œuvre d'améliorations du système, l'optimisation des codes, la normalisation des modèles, ainsi que la suggestion et l'exécution d'idées qui ajoutent de la valeur au projet sur lequel je travaille.",
+        "Parmi les technologies sur lesquelles j'ai été formé et j'ai travaillé, on peut citer (sans s'y limiter) :"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Carrus",
+            "Title": "Fullstack developer",
+            "Date": "June 2023 - Present",
+            "Description": [
+                "Développement et maintenance d'une application serveur qui gère le matériel, les emplacements, la surveillance, la maintenance, la supervision et les logs, ce qui a permis d'améliorer l'expérience des utilisateurs et les performances",
+                "Mise en œuvre d'API RESTful pour prendre en charge plusieurs demandes de clients, en utilisant Java et Spring boot, Spring Security et Hibernate",
+                "Mise en œuvre de l'accessibilité web et de la réactivité sur différentes tailles d'écran avec Angular",
+                "Mise en œuvre de l'intégration continue et des sauvegardes quotidiennes",
+                "Réunion journalière",
+                "Réalisation d'une revue de code des pull requests pour s'assurer que le code est 100% conforme à toutes les normes",
+                "Mise en œuvre de l'intégration continue et des sauvegardes quotidiennes."
+            ]
+        },
+        
+        {
+            "Tab": "Elcimai",
+            "Title": "Fullstack developer",
+            "Date": "November 2022 - April 2023",
+            "Description": [
+                "Développer une api RESTful en utilisant le restTemplate de Spring pour récupérer les données de la plateforme api monExt et les afficher en utilisant l'API ouverte",
+                "Pour le développement, nous avons adopté le REFACTOR ROUGE VERT, en commençant par des tests unitaires pour assurer une bonne couverture du projet",
+                "Codage des requêtes API avec Spring Framework",
+                "Création de modules avec des formulaires réactifs complexes",
+                "Amélioration des performances du site web grâce à l'optimisation des codes et à la mise en œuvre de techniques de mise en cache."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Wagering Device Management",
+            "Description": "L'objectif de WDM est de maintenir de manière centralisée un parc d'appareils déployés dans les points de vente (terminaux et contrôleurs de billets) en état de fonctionnement et de signaler un état de santé général qui permette à la société de paris de prendre des décisions correctives rapides et précises en cas de problème.",
+            "imgs": [
+                "assets/images/school/login.png",
+                "assets/images/school/dashBoard.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "RxJS",
+                "Java",
+                "Spring Boot",
+                "Spring Security",
+                "Hibernate"
+            ]
+        },
+        {
+            "Title": "eDelubac",
+            "Description": "eDelubac est une application qui permet aux clients de gérer leurs transactions bancaires à distance, <span class='underline'>simplement et en toute sécurité.</span>",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Java",
+                "Spring Framework",
+                "Jenkins",
+                "Git",
+                "Hibernate"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/mufeez1/quizapp",
+            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/mufeez1/node-jwt",
+            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "Prochaine étape",
+    "Contact.Title": "Prenez contact!",
+    "Contact.Content": "Je serai heureux de recevoir votre contact si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi et je vous répondrai dès que j'aurai pris connaissance de votre message.",
+    "Contact.Btn": "Dites bonjour"
+}
