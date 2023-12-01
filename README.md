@@ -1,8 +1,8 @@
-# Muffeez-Portfolio 
-I have 3 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, React, NodeJS and ExpressJS and sometimes in Python` applying good practices and development standards.
+# Heritoky-Portfolio 
+I am a software engineer with over 5 years of experience, specialising in the development of technology solutions. I focus on writing and refactoring clean, reusable and scalable code in `Angular and Spring Boot`, applying best practices and development standards.
 
 Click the link below to open my portfolio.
-<https://mufeez1.github.io/muffeez/> 
+<https://github.com/MaheninaHerii> 
 
 ## Development server
 
